@@ -1,4 +1,5 @@
-# SSB Caps
+# Mu Caps
+This is a fork of ssb-caps.
 
 This is the "Caps" key for accessing the SSB protocol. It will be updated
 whenever breaking changes are made. See the secret-handshake paper for a full
