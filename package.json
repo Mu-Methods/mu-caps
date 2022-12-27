@@ -1,5 +1,5 @@
 {
-  "name": "ssb-caps",
+  "name": "@mu-methods/<caps>",
   "version": "0.0.0",
   "description": "The Caps string for accessing the SSB protocol using secret handshake",
   "repository": {
