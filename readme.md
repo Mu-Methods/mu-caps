@@ -10,7 +10,11 @@ http://dominictarr.github.io/secret-handshake-paper/shs.pdf
 ## Installation
 
 ```
-npm install --save ssb-caps
+npm install --save @mu-methods/caps
+```
+or
+```
+yarn add @mu-methods/caps
 ```
 
 ## Usage
@@ -18,7 +22,7 @@ npm install --save ssb-caps
 From JavaScript:
 
 ```js
-var caps = require('ssb-caps')
+var caps = require('@mu-methods/caps')
 
 console.log(caps) // JSON object: {shs, sign}
 console.log(caps.shs) // this is a string to be interpreted as base64

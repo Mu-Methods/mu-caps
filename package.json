@@ -1,15 +1,15 @@
 {
   "name": "@mu-methods/caps",
-  "version": "0.0.1",
-  "description": "The Caps string for accessing the SSB protocol using secret handshake",
+  "version": "0.0.2",
+  "description": "The Caps string for accessing the MU protocol using secret handshake",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ssbc/ssb-caps.git"
+    "url": "git@github.com:Mu-Methods/mu-caps.git"
   },
   "main": "caps.json",
   "author": "mu methods",
   "license": "CC0-1.0",
   "keywords": [
-    "ssb"
+    "mu"
   ]
 }
